@@ -9,3 +9,6 @@ from .vanilla_template import *
 from .openai_memory_template import *
 from .vanilla-ziyu import *
 from .scholar-ziyu import *
+from .test_agent import *
+from .agent1 import *
+from .agent2 import *
